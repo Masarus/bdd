@@ -1,0 +1,19 @@
+{
+  "name": "bdd",
+  "version": "1.0.0",
+  "description": "Projet pour Bdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Masarus/bdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Masarus/bdd/issues"
+  },
+  "homepage": "https://github.com/Masarus/bdd#readme"
+}
